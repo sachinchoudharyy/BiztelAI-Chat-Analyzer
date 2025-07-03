@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+numpy
+textblob
+scikit-learn
+matplotlib
+seaborn
+wordcloud
+nltk
